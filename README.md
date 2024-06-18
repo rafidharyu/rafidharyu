@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafidharyu&show_icons=true&locale=en&layout=compact" alt="rafidharyu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafidharyu&show_icons=true&locale=en" alt="rafidharyu" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafidharyu&" alt="rafidharyu" /></p>
